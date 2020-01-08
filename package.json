@@ -1,0 +1,16 @@
+{
+  "name": "ar-decoration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "author": "Janik Vonrotz",
+  "license": "MIT",
+  "dependencies": {
+    "aframe": "^1.0.3",
+    "aframe-extras": "^6.0.1",
+    "ar.js": "^2.1.4"
+  }
+}
