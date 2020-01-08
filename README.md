@@ -48,22 +48,22 @@ There are multiple JS libraries involed in order to make this work. Let's have a
 
 A-Frame is a web framework for building virtual reality (VR) experiences. Built on top of html it is a powerful three.js framework providing composable and reusable entity-component structure.
 
--> [https://aframe.io/](https://aframe.io/)
+↪ [https://aframe.io/](https://aframe.io/)
 
 **three.js**
 
 Three.js is a JS library and API for creating and displaying animated 3D graphics.
 
--> [https://threejs.org/](https://threejs.org/)
+↪ [https://threejs.org/](https://threejs.org/)
 
 **AR.js**
 
 AR.js is a wrapper of different frameworks. It is build on top of A-Frame, ARToolKit and three.js. It combines these technologies to provide an augmented reality experience.
 
--> [https://jeromeetienne.github.io/AR.js/](https://jeromeetienne.github.io/AR.js/)
+↪ [https://jeromeetienne.github.io/AR.js/](https://jeromeetienne.github.io/AR.js/)
 
 **ARToolKit**
 
 ARToolKit is software library for building augemnted reality applications. For this project the JS implementation jsartoolkit5 has been used.
 
--> [http://www.hitl.washington.edu/artoolkit/](http://www.hitl.washington.edu/artoolkit/)
+↪ [http://www.hitl.washington.edu/artoolkit/](http://www.hitl.washington.edu/artoolkit/)
