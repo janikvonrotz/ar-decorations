@@ -6,25 +6,39 @@ Testing the [AR.js](https://jeromeetienne.github.io/AR.js/) library.
 
 Using the marker based approach with AR.js objects can be projected on to defined marker.
 
-### Example
-
 Scan the QR code with your smartphone below.
 
 ![](/assets/qr-code-example.png)
 
-Point the camera to the QR code. An animation should appear on top of logo inside the QR code.
+Point the camera to the QR code. An animation should appear on top of the marker inside the QR code.
 
 [QRCode Monkey](https://www.qrcode-monkey.com/de) has been used to generate these QR codes.
 
 Source of model: [Cesium Man](https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/CesiumMan)
 
-### Duck
+**Duck**
 
 Another example.
 
 ![](/assets/qr-code-duck.png)
 
 Source of model: [Duck](https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/Duck)
+
+And some more:
+
+**Avocado**
+
+![](/assets/qr-code-avocado.png)
+
+**Fish**
+
+![](/assets/qr-code-fish.png)
+
+**Fish Animated**
+
+![](/assets/qr-code-fish2-blue.png)
+
+This model was downloaded from [Sketchfab](https://sketchfab.com/3d-models/fish-ae9089d355d244aebd9abee4da7d35af) and converted to `.glb` file.
 
 ## Overview
 
