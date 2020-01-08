@@ -8,7 +8,7 @@ Using the marker based approach with AR.js objects can be projected on to define
 
 Scan the QR code with your smartphone below.
 
-![](/assets/qr-code-example.png)
+![](/assets/qr-code-example.png | width=250)
 
 Point the camera to the QR code. An animation should appear on top of the marker inside the QR code.
 
@@ -20,7 +20,7 @@ Source of model: [Cesium Man](https://github.com/KhronosGroup/glTF-Sample-Models
 
 Another example.
 
-![](/assets/qr-code-duck.png)
+![](/assets/qr-code-duck.png | width=250)
 
 Source of model: [Duck](https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/Duck)
 
@@ -28,15 +28,15 @@ And some more:
 
 **Avocado**
 
-![](/assets/qr-code-avocado.png)
+![](/assets/qr-code-avocado.png | width=250)
 
 **Fish**
 
-![](/assets/qr-code-fish.png)
+![](/assets/qr-code-fish.png | width=250)
 
 **Fish Animated**
 
-![](/assets/qr-code-fish2-blue.png)
+![](/assets/qr-code-fish2-blue.png | width=250)
 
 This model was downloaded from [Sketchfab](https://sketchfab.com/3d-models/fish-ae9089d355d244aebd9abee4da7d35af) and converted to `.glb` file.
 
