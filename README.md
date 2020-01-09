@@ -34,9 +34,13 @@ And some more:
 
 <img src="/assets/qr-code-fish.png" width="250">
 
-**Fish Animated**
+**Nice Fish**
 
-<img src="/assets/qr-code-fish2-blue.png" width="250">
+With separate marker and QR code.
+
+<img src="/assets/barcode-value-25.png" width="250">
+
+<img src="/assets/qr-code-nicefish.png" width="250">
 
 This model was downloaded from [Sketchfab](https://sketchfab.com/3d-models/fish-ae9089d355d244aebd9abee4da7d35af) and converted to `.glb` file.
 

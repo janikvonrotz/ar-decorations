@@ -19,10 +19,11 @@
             <a-asset-item id="animated-asset" src="/fish.glb"></a-asset-item>
         </a-assets>
 
-        <a-marker id="animated-marker" type='barcode' value='7'>
-            <a-entity gltf-model="#animated-asset" animation="property: rotation; dur: 10000; to: 0 360 0; loop: true">
-            </a-entity>
-        </a-marker>
+        <a-marker id="animated-marker" type='barcode' value='25'>
+            <a-entity rotation="0 0 90">
+                <a-entity gltf-model="#animated-asset" scale="0.5 0.5 0.5" position="2 0 0"></a-entity>
+            <a-entity>
+            </a-marker>
 
         <a-entity camera></a-entity>
     </a-scene>
